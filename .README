@@ -1,0 +1,24 @@
+# Muhammad Kamran;s Praccomp2024 GitHub repo
+## Fall semester 2024
+### Markdown Basics
+
+- Bulletpoint
+
+1 Numerical list 1
+
+2 Numerical list 2
+
+[ ] open check
+
+[x] checked
+
+unformated text
+
+- text formating
+	-_spider_
+	-__spider__
+	- ~spider~
+
+| obs | value |
+| --- | ---- |
+| A | 0.5  |
